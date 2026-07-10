@@ -1,0 +1,8 @@
+#include <stdio.h> // Includes the standard input-output library
+
+int main() {
+    // printf() displays the string inside quotation marks
+    printf("Hello, World!\n"); 
+    
+    return 0; // Terminates the main() function
+}
